@@ -1,0 +1,1 @@
+SOLANA_PRIVATE_KEY="4QaPyAEoFVzmoZuqVo2jrzx394tomJfxazueGNhc2LbiHojX3wNNnmtpEwssQ4zYSCbh944szxwVhvqVt3UdrBLX"
